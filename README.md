@@ -2,7 +2,7 @@
     <img width="800" height="300px"src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png">
 </p>
 <H1> 👨‍💻 Profile </H1>
-<h3 align="center">Hi 👋, I'm &#60;Venkata subbamma/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Full Stack developer from Bangladesh</h3>
+<h3 align="center">Hi 👋, I'm &#60;Venkata subbamma/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Full Stack developer </h3>
 
 <h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding" allign="right" width="400px">
