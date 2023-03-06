@@ -6,7 +6,7 @@
 
 <h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding" allign="right" width="400px">
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatasubbamma" alt="subbamma" /
 
  - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
 
